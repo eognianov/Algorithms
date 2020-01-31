@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHano
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithoutRepetition", "CombinationsWithoutRepetition\CombinationsWithoutRepetition.csproj", "{DBBA9694-4A4F-4DF1-92CD-5AC6B690E837}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedAreasInMatrix", "ConnectedAreasInMatrix\ConnectedAreasInMatrix.csproj", "{956114A6-A9CB-4F6A-A529-373C06FD0E2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DBBA9694-4A4F-4DF1-92CD-5AC6B690E837}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBBA9694-4A4F-4DF1-92CD-5AC6B690E837}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBBA9694-4A4F-4DF1-92CD-5AC6B690E837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{956114A6-A9CB-4F6A-A529-373C06FD0E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956114A6-A9CB-4F6A-A529-373C06FD0E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956114A6-A9CB-4F6A-A529-373C06FD0E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956114A6-A9CB-4F6A-A529-373C06FD0E2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
