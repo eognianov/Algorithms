@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoops", "NestedLoops\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithRepetition", "CombinationsWithRepetition\CombinationsWithRepetition.csproj", "{3CA08FF6-1974-4667-888F-621C49CECAEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{F6549C6E-4762-4736-81E3-1C43AC5C99C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithoutRepetition", "CombinationsWithoutRepetition\CombinationsWithoutRepetition.csproj", "{DBBA9694-4A4F-4DF1-92CD-5AC6B690E837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{3CA08FF6-1974-4667-888F-621C49CECAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CA08FF6-1974-4667-888F-621C49CECAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CA08FF6-1974-4667-888F-621C49CECAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6549C6E-4762-4736-81E3-1C43AC5C99C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6549C6E-4762-4736-81E3-1C43AC5C99C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6549C6E-4762-4736-81E3-1C43AC5C99C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6549C6E-4762-4736-81E3-1C43AC5C99C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBA9694-4A4F-4DF1-92CD-5AC6B690E837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBA9694-4A4F-4DF1-92CD-5AC6B690E837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBA9694-4A4F-4DF1-92CD-5AC6B690E837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBA9694-4A4F-4DF1-92CD-5AC6B690E837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
